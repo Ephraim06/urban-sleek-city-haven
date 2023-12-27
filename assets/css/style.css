@@ -1534,7 +1534,7 @@ a.cart-mobile {
     width: 596px;
     height: 182px;
     display: inline-block;
-    background: url(../images/top-header-banner-bg.svg) center no-repeat;
+    background: url(../top-header-banner-bg.svg) center no-repeat;
     background-size: cover;
     position: absolute;
     top: 95px;
